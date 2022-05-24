@@ -1,3 +1,5 @@
+"use strict"
+
 const { supportsEsModules } = require("mocha/lib/utils");
 
 function Flights() {

@@ -1,3 +1,5 @@
+"use strict"
+
 function Passengers() {
     function checkFlightCapacity(flightCapacity,passengersNumArray) {
         let totalNumber = 0;
